@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Lu 👋
 
 This is the place where I practice and break things :)
 
 
 ### About me
 
-- Wanderlust at heart
-- Music lover
-- Tech and UI design curious
-- Currently obsessed learning `Cypress`
+- 🎵  Music lover
+- 💻  Tech and UI design passionate
+- 🌱  Currenlty deep-diving into `Cypress`
 
 
 ### Tech stack&nbsp;
