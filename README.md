@@ -25,6 +25,3 @@ This is the place where I practice and break things :)
 ![GitHub](https://img.shields.io/badge/-GitHub?logo=github&style=flat&labelColor=ffffff&color=ffffff&label=Github&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code?style=flat&logo=visualstudiocode&labelColor=ffffff&color=ffffff&label=Visual%20Studio%20Code&logoColor=007ACC)&nbsp;
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lm3031&theme=transparent&layout=compact)](https://github.com/lm3031/github-readme-stats)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm3031&langs_count=8&layout=compact&theme=transparent)
-
