@@ -7,7 +7,6 @@ This is the place where I practice and break things :)
 
 - 🎵  Music lover
 - 💻  Tech and UI design passionate
-- 🌱  Currenlty deep-diving into `Cypress`
 
 
 ### Tech stack&nbsp;
