@@ -2,13 +2,6 @@
 
 This is the place where I practice and break things :)
 
-
-### About me
-
-- 🎵  Music lover
-- 💻  Tech and UI design passionate
-
-
 ### Tech stack&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript?logo=javascript&style=flat&labelColor=ffffff&color=ffffff&label=Javascript)&nbsp;
