@@ -1,6 +1,6 @@
 ### Hi there, I'm Lu 👋
 
-This is the place where I practice and break things :)
+This is the place where I break things :)
 
 ### Tech stack&nbsp;
 
